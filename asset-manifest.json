@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Faisalkhan1123/TO-DO_LIST.git/static/css/main.405e1817.css",
+    "main.js": "/Faisalkhan1123/TO-DO_LIST.git/static/js/main.948b0ad3.js",
+    "static/js/787.97a945da.chunk.js": "/Faisalkhan1123/TO-DO_LIST.git/static/js/787.97a945da.chunk.js",
+    "index.html": "/Faisalkhan1123/TO-DO_LIST.git/index.html",
+    "main.405e1817.css.map": "/Faisalkhan1123/TO-DO_LIST.git/static/css/main.405e1817.css.map",
+    "main.948b0ad3.js.map": "/Faisalkhan1123/TO-DO_LIST.git/static/js/main.948b0ad3.js.map",
+    "787.97a945da.chunk.js.map": "/Faisalkhan1123/TO-DO_LIST.git/static/js/787.97a945da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.405e1817.css",
+    "static/js/main.948b0ad3.js"
+  ]
+}
